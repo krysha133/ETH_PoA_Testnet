@@ -28,9 +28,9 @@
 #### NOTES
 Wasn't able to connect to the MyCrypto custom network. Initially after creating the network I wasn't able to connect to it at all. The following day it was connecting me to the network but the account balance would be stuck loading.
 ##### Account keys
-Public address node5: 0x3049469699b47317090225486cf66711d35d9cCb
-Password: 411
-Public address node6: 0x0c13c2cdaa2b40C0F904572fC5dd964533D6346d
-Password: 511
-enode://5e33081553260143e921849f1748c3531b751d9091671de0b5b3070bbd2e02a43a610f4a03c86ec3944d8eefbf7bc5d35cb46a87888ce1e4d102541ce3cdca76@127.0.0.1:30303
-Chain ID: 909
+- Public address node5: 0x3049469699b47317090225486cf66711d35d9cCb
+- Password: 411
+- Public address node6: 0x0c13c2cdaa2b40C0F904572fC5dd964533D6346d
+- Password: 511
+- enode://5e33081553260143e921849f1748c3531b751d9091671de0b5b3070bbd2e02a43a610f4a03c86ec3944d8eefbf7bc5d35cb46a87888ce1e4d102541ce3cdca76@127.0.0.1:30303
+- Chain ID: 909
